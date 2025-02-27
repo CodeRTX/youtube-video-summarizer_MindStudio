@@ -28,6 +28,6 @@ project-root/
 
 Below are screenshots showcasing the working of the YouTube Video Summarizer: <br><br>
 
-![Working1](images/working1.JPG)
+<img src="images/working1.JPG" alt="Working1" width="800">
 <br>
 ![Working2](images/working2.JPG)
