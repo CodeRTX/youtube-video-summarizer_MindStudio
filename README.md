@@ -15,7 +15,6 @@ project-root/
 │   ├── workflow.png       # Diagram of the process workflow
 │   ├── working1.png       # Screenshot of the summarizer in action
 │   └── working2.png       # Another screenshot showing output/results
-├── summarizer.js          # Main JavaScript file for video-to-summary conversion
 ├── .gitignore             # Git ignore file
 └── README.md              # Project documentation
 ```
