@@ -1,5 +1,5 @@
 <!-- Image courtesy of MindStudio -->
-<img src="images/Getting Started with MindStudio 1.png" alt="Workflow Diagram" style="width:300px;">
+<img src="images/Getting Started with MindStudio 1.png" alt="Workflow Diagram" style="width:700px;">
 
 # YouTube Video Summarizer using MindStudio
 
