@@ -15,9 +15,10 @@ This project is a YouTube video summarizer built using [MindStudio]([https://min
 ```
 project-root/
 ├── images/
-│   ├── workflow.png       # Diagram of the process workflow
-│   ├── working1.png       # Screenshot of the summarizer in action
-│   └── working2.png       # Another screenshot showing output/results
+|   ├── uasge.jpg          # Screenshot of the summarizer in action
+│   ├── workflow.jpg       # Diagram of the process workflow
+│   ├── working1.jpg       # Screenshot of the summarizer in action
+│   └── working2.jpg       # Another screenshot showing output/results
 ├── .gitignore             # Git ignore file
 └── README.md              # Project documentation
 ```
