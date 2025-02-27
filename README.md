@@ -1,3 +1,6 @@
+<!-- Image courtesy of MindStudio -->
+<img src="images/workflow.png" alt="Workflow Diagram">
+
 # YouTube Video Summarizer using MindStudio
 
 This project is a YouTube video summarizer built using [MindStudio]([https://mindstudio.example.com](https://www.mindstudio.ai/)). It processes YouTube videos and generates concise summaries.
