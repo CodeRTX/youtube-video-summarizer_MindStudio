@@ -21,6 +21,7 @@ project-root/
 │   └── working2.jpg       # Another screenshot showing output/results
 ├── .gitignore             # Git ignore file
 ├── LICENSE
+├── logs.json
 └── README.md              # Project documentation
 ```
 ## Workflow
