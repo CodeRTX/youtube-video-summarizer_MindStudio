@@ -23,6 +23,16 @@ project-root/
 ├── LICENSE
 └── README.md              # Project documentation
 ```
+## Workflow
+
+This project leverages a streamlined four-step workflow in MindStudio:
+
+1. **Start**: The process is initiated with the required input data.
+2. **Fetch YouTube Captions**: Captions are automatically retrieved from the designated YouTube video.
+3. **Generate Text**: The fetched captions are processed to produce the final text output.
+4. **End**: The workflow concludes once the text is ready for use.
+
+<img src="images/workflow.JPG" alt="Worflow" width="800">
 
 ## Demonstration Screenshots
 
