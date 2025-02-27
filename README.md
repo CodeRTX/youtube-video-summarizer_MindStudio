@@ -28,10 +28,8 @@ project-root/
 
 Below are screenshots showcasing the working of the YouTube Video Summarizer:
 
-### Screenshot 1: Summarizer in Action
 ![Summarizer in Action](images/working1.png)
 *The summarizer processes a YouTube video and begins generating a summary.*
 
-### Screenshot 2: Summary Output Displayed
 ![Summary Output](images/working2.png)
 *The final summary output is displayed once processing is complete.*
