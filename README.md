@@ -26,7 +26,7 @@ project-root/
 
 ## Demonstration Screenshots
 
-Below are screenshots showcasing the working of the YouTube Video Summarizer:
+Below are screenshots showcasing the working of the YouTube Video Summarizer: <br>
 
 ![Summarizer in Action](images/working1.JPG)
 *The summarizer processes a YouTube video and begins generating a summary.*
