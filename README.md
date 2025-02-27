@@ -30,4 +30,4 @@ Below are screenshots showcasing the working of the YouTube Video Summarizer: <b
 
 <img src="images/working1.JPG" alt="Working1" width="800">
 <br>
-![Working2](images/working2.JPG)
+<img src="images/working2.JPG" alt="Working2" width="800">
